@@ -11,13 +11,13 @@ lamp.can_draw_lamp = false;
 lamp.images = {};
 
 lamp.images.lamp = new Image();
-lamp.images.lamp.src = "/lamp.png";
+lamp.images.lamp.src = "lamp.png";
 lamp.images.lamp.onload = function() {
 	lamp.can_draw_lamp = true;
 }
 
 lamp.images.moth = new Image();
-lamp.images.moth.src = "/moth.png";
+lamp.images.moth.src = "moth.png";
 lamp.images.moth.onload = function() {
 	lamp.images.moth.can_draw = true;
 }
