@@ -19,6 +19,7 @@ html, body {
 	text-align: center;
 	bottom: 0px;
 	left: 0px;
+	cursor: default;
 }
 
 #lamp-footer a {
