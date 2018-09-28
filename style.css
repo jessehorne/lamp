@@ -7,14 +7,14 @@ html, body {
 
 #lamp-canvas {
 	width: 100%;
-	height: 100%;
+	height: 90%;
 	cursor: none;
 }
 
 #lamp-footer {
 	position: absolute;
 	width: 100%;
-	height: 32px;
+	height: 50px;
 	background-color: black;
 	text-align: center;
 	bottom: 0px;
@@ -24,8 +24,8 @@ html, body {
 
 #lamp-footer a {
 	text-decoration: none;
-	font-size: 20px;
-	line-height: 32px;
+	font-size: 30px;
+	line-height: 50px;
 	color: white;
 	margin: 0;
 	padding: 0;
